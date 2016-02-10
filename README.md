@@ -1,6 +1,6 @@
 # Huffman
 
-![Example tree](example.svg)
+![Example tree](example.svg?raw=true)
 
 
 ## What is it?
